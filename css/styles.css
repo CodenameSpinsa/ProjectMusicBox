@@ -190,12 +190,12 @@ div#banner {
 }
 
 #content {
-	width: 800px;
+	width: 70%;
 	float:  left;
 }
 
 #rightside {
-	width: 400px;
+	width: 30%;
 	float: right;
 }
 
