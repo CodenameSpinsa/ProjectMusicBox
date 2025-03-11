@@ -1,1 +1,197 @@
+/* CSS for Spencer Ward's Professional Portfolio */
 
+/* Overall Elements */
+
+html {
+}
+
+body {
+	background: #3399FF;
+}
+
+/* End of Overall Elements */
+
+
+div#container {
+	width: 100%;
+	margin: 0 auto;
+	background-color: #ffffff;
+}<!-- id tags always begin with a # in the css -->
+
+/* Headings */
+
+h1 {
+	margin: 0;
+	color: #06C;
+}
+
+h2 {
+}
+
+h3 {
+}
+
+h4 {
+}
+
+h5 {
+}
+
+h6 {
+}
+
+
+/* End of Headings */
+
+
+/* Text Elements */
+
+p {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+
+}
+
+p .left {
+	
+}
+
+p .right {
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color:#0000CC;
+}
+
+a:visited {
+	color:#09F;
+}
+
+a:active {
+	
+}
+
+a:focus {
+	
+}
+
+a:hover {
+	color:#3FA5D6;
+}
+
+blockquote {
+
+}
+
+strong {
+
+}
+
+em {
+	
+}
+
+/* End of Text Elements */
+
+
+/* Lists */
+
+ul {
+
+}
+
+ol {
+
+}
+
+/* End of Lists */
+
+
+/* Images */
+
+
+
+/* End of Images */
+
+.class1 {
+	color: red;
+} <!-- classes always begin with a . in the css -->
+
+
+/* Containers */
+
+div#topnav {
+	clear: both;
+}
+
+div#topnav ul {
+	border-top: 1px #000 solid;
+	border-bottom: 1px #000 solid;
+	margin: 5px 0;
+	padding: 10px 0;
+}
+
+div#topnav ul li {
+	display: inline;
+}
+
+div#topnav ul li a {
+	padding: 0 50px;
+}<!-- first number is top and bottom, second number is left and right -->
+
+#topnav a:link {
+	color:#000;
+}
+
+#topnav a:visited {
+	color:#333;
+}
+
+#topnav a:active {
+	
+}
+
+#topnav a:focus {
+	
+}
+
+#topnav a:hover {
+	color:#00F;
+}
+
+div#logo {
+	text-align:center;
+}
+
+div#banner {
+	width: ;
+}
+
+
+#photos {
+	width: 100%;
+	clear: both;
+	float: left;
+}
+
+#footer {
+	clear: both;
+	border-top: 1px #666 solid;
+	background-color: #000;
+	color:#FFFFFF;
+	text-align:center;
+	padding: 1px;
+}<!-- margin is on the outside of container and padding is on the inside. -->
+
+/* End of Containers */
+
+/* Miscellaneous */
+
+.footer-text {
+	
+}
+
+/* End of Miscellaneous */
