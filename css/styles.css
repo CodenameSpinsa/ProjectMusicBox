@@ -112,6 +112,10 @@ ol {
 
 /* Images */
 
+img src {
+	width: 100%;
+}
+
 .image-frame {
 	padding: 10px; 
 	border: 1px #CCC solid;
