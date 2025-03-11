@@ -2,9 +2,6 @@
 
 /* Overall Elements */
 
-html {
-}
-
 body {
 	background: #000000;
 }
@@ -21,8 +18,7 @@ div#container {
 /* Headings */
 
 h1 {
-	margin: 0;
-	color: #06C;
+
 }
 
 h2 {
@@ -48,14 +44,6 @@ h6 {
 
 p {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	margin-left: 40px;
-}
-
-p .left {
-	
-}
-
-p .right {
-	
 }
 
 a {
@@ -112,15 +100,7 @@ ol {
 
 /* Images */
 
-img src {
-	width: 100%;
-}
 
-.image-frame {
-	padding: 10px; 
-	border: 1px #CCC solid;
-	margin: 10px;
-}
 
 /* End of Images */
 
@@ -175,37 +155,31 @@ div#logo {
 }
 
 div#banner {
-	width: 100%;
+
 }
 
 #section1 {
-	width: 31%;
-	float: left;
+
 }
 
 #section2 {
-	width: 31%;
-	float: left;	
+	
 }
 
 #section3 {
-	width: 31%;
-	float: left;
+
 }
 
 #content {
-	width: 70%;
-	float:  left;
+
 }
 
 #rightside {
-	width: 30%;
-	float: right;
+
 }
 
 #fullpage {
-	width: 100%;
-	float: left;
+
 }
 
 #photos {
