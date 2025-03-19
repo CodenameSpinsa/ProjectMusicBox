@@ -136,6 +136,7 @@ div#topnav ul {
 	border-bottom: 1px #000 solid;
 	margin: 0 auto;
 	padding: 10px 0;
+	position: absolute;
 }
 
 div#topnav ul li {
