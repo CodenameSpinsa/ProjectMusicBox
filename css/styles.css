@@ -113,7 +113,8 @@ ol {
 /* Images */
 
 img src {
-	margin: 0;
+	max-width: 100%;
+	margin: auto;
 }
 
 /* End of Images */
