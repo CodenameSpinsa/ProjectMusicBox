@@ -141,6 +141,7 @@ div#topnav ul {
 
 div#topnav ul li {
 	display: inline;
+	padding: 10px;
 }
 
 div#topnav ul li a {
