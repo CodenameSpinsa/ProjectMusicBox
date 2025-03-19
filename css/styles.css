@@ -2,9 +2,6 @@
 
 /* Overall Elements */
 
-html {
-}
-
 body {
 	background: #000000;
 }
@@ -25,22 +22,6 @@ h1 {
 	color: #06C;
 }
 
-h2 {
-}
-
-h3 {
-}
-
-h4 {
-}
-
-h5 {
-}
-
-h6 {
-}
-
-
 /* End of Headings */
 
 
@@ -48,14 +29,6 @@ h6 {
 
 p {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 
-}
-
-p .left {
-	
-}
-
-p .right {
-	
 }
 
 a {
@@ -71,28 +44,8 @@ a:visited {
 	color:#09F;
 }
 
-a:active {
-	
-}
-
-a:focus {
-	
-}
-
 a:hover {
 	color:#3FA5D6;
-}
-
-blockquote {
-
-}
-
-strong {
-
-}
-
-em {
-	
 }
 
 /* End of Text Elements */
@@ -141,7 +94,7 @@ div#topnav ul {
 
 div#topnav ul li {
 	display: inline;
-	padding: 10px;
+	padding: 30px;
 }
 
 div#topnav ul li a {
