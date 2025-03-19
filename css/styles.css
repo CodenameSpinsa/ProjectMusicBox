@@ -112,7 +112,9 @@ ol {
 
 /* Images */
 
-
+img src {
+	margin: 0;
+}
 
 /* End of Images */
 
