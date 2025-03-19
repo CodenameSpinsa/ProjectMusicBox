@@ -60,6 +60,7 @@ p .right {
 
 a {
 	text-decoration: none;
+	text-align: centered;
 }
 
 a:link {
